@@ -1,0 +1,14 @@
+// Place all the styles related to the basics controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import 'bootstrap';
+/*@import 'bootstrap/modal';*/
+
+html body {
+  background: url( 'fieldb.jpg' ) no-repeat center scroll;
+}
+
+.container {
+  margin-top:40px;
+  background:rgba(245,245,245,0.4);
+}
